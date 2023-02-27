@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garresandeep5
 - 👀 I’m interested in DevOps-Engineer,Cloud-Engineer
-- 🌱 I’m currently learning ... AWS&DevOps
+- 🌱 I’m currently looking ... AWS&DevOps
 - 💞️ I’m looking to collaborate on ... IT Industries 
 -📫 How to reach me ...
 - Gmail:garresandeep5@gmail.com
