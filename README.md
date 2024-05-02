@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @garresandeep5
+- 👋 Hi, I’m @Garre.Sandeep
 - 👀 I’m interested in DevOps-Engineer,Cloud-Engineer
 - 🌱 currently working as Trainee Aws engineer ... 
 - 💞️ I’m looking to collaborate on ... IT Industries 
